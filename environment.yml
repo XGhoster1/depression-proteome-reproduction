@@ -1,4 +1,4 @@
-name: depression-proteome
+name: fastq-to-DE
 channels:
   - conda-forge
   - defaults
