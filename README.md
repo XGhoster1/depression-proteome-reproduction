@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XGhoster1/fastq-to-DE/blob/main/notebooks/kallisto_pipeline.ipynb)
+
 # 🧠 Reproducing: Prefrontal Cortex Proteome in Major Depression (Martins-de-Souza et al., 2012)
 
 This project aims to reproduce and extend the findings from the paper:
