@@ -1,0 +1,20 @@
+name: depression-proteome
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - statsmodels
+  - scikit-learn
+  - biopython
+  - ipykernel
+  - pip
+  - pip:
+      - pyteomics
